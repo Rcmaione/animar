@@ -101,6 +101,14 @@ main{
 .filtro details label{
     margin-top: 10px;
 }
+#Filtrar{
+    width: 150px;
+    height: 30px;
+    background-color: #88a2ff;
+    color: #fff;
+    cursor: pointer; 
+}
+
 #galeria{
     width: 90%;    
     float: left;
