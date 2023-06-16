@@ -106,7 +106,8 @@ main{
     height: 30px;
     background-color: #88a2ff;
     color: #fff;
-    cursor: pointer; 
+    cursor: pointer;
+    font-family: Dosis-Extrabold;
 }
 
 #galeria{
